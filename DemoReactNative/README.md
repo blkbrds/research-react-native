@@ -1,5 +1,4 @@
-# AT - Research React Native
-## Component life circle
+# Component life circle
 
 ## Vòng đời của một component
 - Vòng đời của 1 component là gì?
@@ -21,3 +20,12 @@
 
 ## Examples
 [Documentation](https://github.com/blkbrds/research-react-native/tree/feature/React-native-lifeCircle-demo/DemoReactNative)
+
+# ImageView
+## Hiển thị Image trong react native
+- Load ảnh từ local/ bunle
+- Độ phân giải ảnh (1x,2x,3x)
+- Cách resize model (conver, contain, stretch, center(iOS only))
+- Bo góc hình = > tròn
+- TintColor: dùng 1 ảnh để hiển thị nhiều màu khác nhau
+- Load hình từ URL
