@@ -13,5 +13,6 @@ import {
 } from 'react-native';
 
 import LifeCircle from './BaiHoc/LifeCircle';
+import ListViewDemo from './BaiHoc/ListView';
 
-AppRegistry.registerComponent('DemoReactNative', () => LifeCircle);
+AppRegistry.registerComponent('DemoReactNative', () => ListViewDemo);
